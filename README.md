@@ -16,7 +16,7 @@
 
 4. Click on 'Load unpacked', in the window that opens navigate to your folder and click select.
 
-5. Visit web url with paywall, tap on extension.
+5. Visit link with paywall, tap on extension.
 
 ###### *Optional: Pin to omnibar for easy acesss.*
 
