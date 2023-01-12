@@ -2,6 +2,8 @@
 
 ###### _A simple personal project to learn extesnion development for Chrome and Chrome-based browsers._
 
+###### _Alternatively you can forward links to a [Telegram bot](https://github.com/Grahtni/Bypass-Paywalls-Telegram-Bot/) to do the same._
+
 ##### Unblocks web sites with paywalled articles using 12ft.io in one click.
 
 #### Install:
@@ -16,10 +18,12 @@
 
 5. Visit web url to be saved/archived, tap on extension.
 
-_*Optional*_: Pin to omnibar for easy acess. 
+###### *Optional: Pin to omnibar for easy acesss.*
 
 #### Features to add:
 
 Icon
 
 Publish to Chrome web store
+
+Use archive.is as a backup
