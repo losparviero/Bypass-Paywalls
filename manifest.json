@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Bypass Paywalls",
+    "description": "Unblocks websites with paywalled articles using 12ft.io",
+    "version": "1.0",
+    "browser_action": {
+      //  "default_popup": "popup.html",
+      //  "default_icon": "icon.png"
+    },
+    "permissions": [
+        "activeTab",
+        "tabs"
+    ],
+    "background": {
+        "scripts": ["background.js"]
+    }
+}
