@@ -20,6 +20,10 @@
 
 ###### *Optional: Pin to omnibar for easy acesss.*
 
+#### Uninstall:
+
+###### Naivgate to chrome://extensions, find the extension and tap Remove.
+
 #### Features to add:
 
 Icon
@@ -27,3 +31,7 @@ Icon
 Publish to Chrome web store
 
 Use archive.is as a backup
+
+#### License
+
+###### The contents of this work are protected by GNU AGPL 3.0.
